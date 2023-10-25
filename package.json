@@ -1,7 +1,7 @@
 {
   "name": "astro-theme-stone",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -10,16 +10,16 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@alpinejs/collapse": "3.12.3",
-    "@astrojs/tailwind": "4.0.0",
-    "@fontsource/inter": "5.0.8",
-    "@types/alpinejs": "3.7.2",
-    "alpinejs": "3.12.3",
-    "astro": "2.10.13",
-    "astro-compress": "2.0.14",
-    "prettier": "3.0.2",
+    "@alpinejs/collapse": "3.13.2",
+    "@astrojs/tailwind": "5.0.2",
+    "@fontsource/inter": "5.0.15",
+    "@types/alpinejs": "3.13.3",
+    "alpinejs": "3.13.2",
+    "astro": "3.3.4",
+    "astro-compress": "2.1.5",
+    "prettier": "3.0.3",
     "prettier-plugin-astro": "0.12.0",
-    "prettier-plugin-tailwindcss": "0.5.3",
-    "tailwindcss": "3.3.3"
+    "prettier-plugin-tailwindcss": "0.5.6",
+    "tailwindcss": "3.3.4"
   }
 }
